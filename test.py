@@ -1,2 +1,2 @@
-print('hello world')
-print('first push')
+print('Hello World')
+print('First Push')
